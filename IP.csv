@@ -5,3 +5,90 @@ IOC, ThreatActor, Reference, Date
 185.82.200.181,Salt Typoon,Smart Install Pre Scan https://blog.talosintelligence.com/salt-typhoon-analysis/,20-02-2025
 185.141.24.28,Salt Typoon,Smart Install Pre Scan https://blog.talosintelligence.com/salt-typhoon-analysis/,20-02-2025
 142.11.206.73,Unknow,AXIOS npm Package Unknow https://www.huntress.com/blog/supply-chain-compromise-axios-npm-package,31-03-2025
+31.192.237.207,Handala IP Monitoring,OSINT Feed,16-03-2026
+185.220.101.47,Handala IP Monitoring,OSINT Feed,16-03-2026
+91.92.243.102,Handala IP Monitoring,OSINT Feed,16-03-2026
+31.192.237.207,Handala IP Monitoring,OSINT Feed,16-03-2026
+176.10.125.107,Handala IP Monitoring,OSINT Feed,16-03-2026
+195.123.240.92,Handala IP Monitoring,OSINT Feed,16-03-2026
+209.250.255.169,Handala IP Monitoring,OSINT Feed,16-03-2026
+31.41.244.57,Handala IP Monitoring,OSINT Feed,16-03-2026
+80.240.30.16,Handala IP Monitoring,OSINT Feed,16-03-2026
+82.25.35.25,Handala IP Monitoring,OSINT Feed,16-03-2026
+31.57.35.223,Handala IP Monitoring,OSINT Feed,16-03-2026
+107.189.19.52,Handala IP Monitoring,OSINT Feed,16-03-2026
+146.185.219.235,Handala IP Monitoring,OSINT Feed,16-03-2026
+178.20.55.182,Handala IP Monitoring,OSINT Feed,16-03-2026
+185.220.100.243,Handala IP Monitoring,OSINT Feed,16-03-2026 
+45.95.169.104,Handala IP Monitoring,OSINT Feed,16-03-2026
+149.248.11.71,UNC6201,CVE-2026-22769 Exploited,17-02-2026 
+78.107.248.247,Unknow,NjRAT on port 1488,11-03-2026
+192.163.168.49,Unknow,ValleyRAT on Port 447,11-03-2026
+193.17.183.126,TA584,ClickFix,30-01-2026
+94.159.113.37,TA584,ClickFix,30-01-2026
+85.236.25.119,TA584,ClickFix,30-01-2026
+80.64.19.148,TA584,ClickFix,30-01-2026
+178.16.52.242,TA584,ClickFix,30-01-2026
+94.159.113.64,TA584,ClickFix,30-01-2026
+134.209.157.90,Lapsus,OSINT Feed,02-01-2026
+139.59.61.193,Lapsus,OSINT Feed,02-01-2026
+104.238.222.158,Lapsus,OSINT Feed,02-01-2026
+108.61.173.214,Lapsus,OSINT Feed,02-01-2026
+185.169.255.74,Lapsus,OSINT Feed,02-01-2026
+156.193.212.244,Lapsus,OSINT Feed,02-01-2026
+102.41.112.148,Lapsus,OSINT Feed,02-01-2026
+45.129.56.148,Lapsus,OSINT Feed,02-01-2026
+185.253.118.70,Lapsus,OSINT Feed,02-01-2026
+72.61.83.67,Lapsus,OSINT Feed,02-01-2026
+88.80.17.227,Lapsus,OSINT Feed,02-01-2026
+104.21.63.167,Qilin,OSINT Feed,29-01-26 
+176.113.115.209,Qilin,OSINT Feed,29-01-26 
+152.89.196.102,Qilin,OSINT Feed,29-01-26 
+176.113.115.97,Qilin,OSINT Feed,29-01-26 
+180.131.145.73,Qilin,OSINT Feed,29-01-26 
+188.119.66.189,Qilin,OSINT Feed,29-01-26 
+194.58.112.174,Qilin,OSINT Feed,29-01-26 
+68.65.122.246,Qilin,OSINT Feed,29-01-26 
+85.209.11.49,Qilin,OSINT Feed,29-01-26 
+85.209.11.79,Qilin,OSINT Feed,29-01-26 
+31.41.244.100,Qilin,OSINT Feed,29-01-26 
+216.158.229.74,Qilin,OSINT Feed,29-01-26 
+66.235.168.238,PylangGhost,OSINT Feed,21-01-2026 
+45.59.163.56,PylangGhost,OSINT Feed,21-01-2026 
+67.203.7.205,PylangGhost,OSINT Feed,21-01-2026 
+38.134.148.218,PylangGhost,OSINT Feed,21-01-2026 
+67.203.7.200,PylangGhost,OSINT Feed,21-01-2026 
+45.61.128.61,PylangGhost,OSINT Feed,21-01-2026 
+38.92.47.118,PylangGhost,OSINT Feed,21-01-2026 
+45.61.165.45,PylangGhost,OSINT Feed,21-01-2026 
+45.61.160.28,PylangGhost,OSINT Feed,21-01-2026 
+38.146.28.177,PylangGhost,OSINT Feed,21-01-2026 
+66.235.168.17,PylangGhost,OSINT Feed,21-01-2026 
+66.235.175.117,PylangGhost,OSINT Feed,21-01-2026 
+31.57.243.55,PylangGhost,OSINT Feed,21-01-2026 
+63.176.219.134,PylangGhost,OSINT Feed,21-01-2026 
+165.140.86.160,PylangGhost,OSINT Feed,21-01-2026 
+144.172.95.226,PylangGhost,OSINT Feed,21-01-2026 
+146.70.253.107,PylangGhost,OSINT Feed,21-01-2026 
+165.140.86.227,PylangGhost,OSINT Feed,21-01-2026 
+147.124.197.138,PylangGhost,OSINT Feed,21-01-2026 
+216.126.229.166,PylangGhost,OSINT Feed,21-01-2026 
+23.106.70.154,PylangGhost,OSINT Feed,21-01-2026 
+38.92.47.91,PylangGhost,OSINT Feed,21-01-2026 
+38.92.47.85,PylangGhost,OSINT Feed,21-01-2026 
+38.92.47.151,PylangGhost,OSINT Feed,21-01-2026 
+45.43.11.201,PylangGhost,OSINT Feed,21-01-2026 
+45.61.133.110,PylangGhost,OSINT Feed,21-01-2026 
+45.61.150.30,PylangGhost,OSINT Feed,21-01-2026 
+147.124.214.237,PylangGhost,OSINT Feed,21-01-2026 
+104.28.244.115,Unknown,FortiCloud SSO Bypass https://www.fortiguard.com/psirt/FG-IR-26-060,27-01-2026 
+104.28.212.114,Unknown,FortiCloud SSO Bypass https://www.fortiguard.com/psirt/FG-IR-26-060,27-01-2026 
+104.28.212.115,Unknown,FortiCloud SSO Bypass https://www.fortiguard.com/psirt/FG-IR-26-060,27-01-2026 
+104.28.195.105,Unknown,FortiCloud SSO Bypass https://www.fortiguard.com/psirt/FG-IR-26-060,27-01-2026 
+104.28.195.106,Unknown,FortiCloud SSO Bypass https://www.fortiguard.com/psirt/FG-IR-26-060,27-01-2026 
+104.28.227.106,Unknown,FortiCloud SSO Bypass https://www.fortiguard.com/psirt/FG-IR-26-060,27-01-2026 
+104.28.227.105,Unknown,FortiCloud SSO Bypass https://www.fortiguard.com/psirt/FG-IR-26-060,27-01-2026 
+104.28.244.114,Unknown,FortiCloud SSO Bypass https://www.fortiguard.com/psirt/FG-IR-26-060,27-01-2026 
+37.1.209.19,Unknown,FortiCloud SSO Bypass https://www.fortiguard.com/psirt/FG-IR-26-060,27-01-2026 
+217.119.139.50,Unknown,FortiCloud SSO Bypass https://www.fortiguard.com/psirt/FG-IR-26-060,27-01-2026 
+
