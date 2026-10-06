@@ -336,3 +336,12 @@ IOC, ThreatActor, Reference, Date
 146.70.104.249,Rhysida,OSINT Feed,09-02-2026
 156.96.62.58,Rhysida,OSINT Feed,09-02-2026
 157.154.194.6,Rhysida,OSINT Feed,09-02-2026
+45.61.136.143, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/, 10-06-2026
+66.227.183.84, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/, 10-06-2026
+77.83.199.39, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/, 10-06-2026
+104.28.215.137, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/, 10-06-2026
+104.248.244.66, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/, 10-06-2026
+104.28.247.136, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/, 10-06-2026
+162.33.178.9, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/, 10-06-2026
+193.149.176.207, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/, 10-06-2026
+216.245.184.164, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/, 10-06-2026
