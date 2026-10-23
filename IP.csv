@@ -343,10 +343,6 @@ IOC, ThreatActor, Reference, Date
 162.33.178.9, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/,10-06-2026
 193.149.176.207, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/,10-06-2026
 216.245.184.164, CITRIX IOC, https://unit42.paloaltonetworks.com/netscaler-zero-days-exploited/,10-06-2026
-c.doghodl.com,0s_NAGO_klr,XTI Payload Backup Dropper,14-10-2026
-www.alimentaitaly.com,0s_NAGO_klr,XTI compromised website,14-10-2026
-wln.ink, 0s_NAGO_klr,XTI Payload Dropper,14-10-2026
-extension.io-safe.icu,0s_NAGO_klr,XTI C2,14-10-2026
 5.83.144.60,Unknown,OSINT CITRIX IOC,14-10-2026 
 23.234.74.48,Unknown,OSINT CITRIX IOC,14-10-2026 
 37.19.221.171,Unknown,OSINT CITRIX IOC,14-10-2026 
